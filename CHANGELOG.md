@@ -2,9 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2025-10-01
+
+### 📚 Documentation
+
+- Test 3
+
 ## [0.1.0] - 2025-10-01
 
-## 📚 Documentation
+### 🐛 Bug Fixes
+
+- Deploiement
+
+### 📚 Documentation
 
 - ChangeLog
 

@@ -5,6 +5,7 @@ namespace Mns\Buggy\Core;
 final class Router 
 {
     public $uri;
+    
 
     public $routes;
 
